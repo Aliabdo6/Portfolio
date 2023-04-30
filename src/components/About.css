@@ -1,0 +1,16 @@
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    height: 80vh;
+    background-color: aquamarine;
+    margin: 0 auto;
+}
